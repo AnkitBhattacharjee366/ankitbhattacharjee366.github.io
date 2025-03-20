@@ -1,0 +1,184 @@
+{
+  "name": "Ankit Bhattacharjee",
+  "label": "Business Analyst -3 | EX - Ernest & Young (GDS) | KIIT Deemed University",
+  "image_path": "portfolio_media/Ankit bhattacharjee_photo.jpg",
+  "contact": {
+    "email": "bhattacharjeeankit366@gmail.com",
+    "phone": "(+91) 9861208165",
+    "location": "Digboi - 786171, Assam, India"
+  },
+  "summary": "As a business analyst with a strong foundation in software asset management at Ernst & Young (GDS), I use data analysis to drive business solutions. Proficient in MS Excel, Alteryx, Microsoft Power BI, SQL, and Python, I specialize in transforming complex datasets into strategic insights that support organizational growth. My academic background in Electronics and Electrical Engineering from KIIT University has sparked my passion for technology, particularly in the areas of automation and data analysis.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "linkedin",
+      "url": "https://www.linkedin.com/in/ankit-bhattacharjee-1a53011b5/",
+      "svg_path": "img/linkedin.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Ernest & Young (GDS)",
+      "position": "Business Analyst - 3",
+      "url": "https://www.ey.com/en_in",
+      "start_date": "04/07/2022",
+      "end_date": "11/01/2025",
+      "highlights": [
+        "I specialize in IT Asset Management and IBM Distributed Licensing, providing actionable insights for global clients.",
+        "Designed and automated workflows using MS Excel, Alteryx, and Power BI, enhancing reporting efficiency with utmost accuracy",
+        "Collaborated with clients to translate complex datasets into strategic insights, driving informed decision making.",
+        "Received multiple recognitions for delivering high-impact analytics solutions.",
+
+        "EY Appreciations - https://drive.google.com/drive/u/1/folders/1JWKOrQ1cqtIiGsS6ogDl-Ct6Z6k6VDA_"
+      ]
+    },
+    {
+      "company": "Indian Oil Corporation Limited (Assam Oil Division)",
+      "position": "Industrial Summer Trainee",
+      "url": "https://iocl.com/",
+      "start_date": "24/05/2021",
+      "end_date": "23/06/2021",
+      "highlights": [
+        "Industrial training plays a vital role in the progress of future engineers. Not only does it provide insights about the future concerned, it also bridges the gap between theory and practical knowledge. I was fortunate that I was provided with an opportunity of undergoing industrial training at INDIAN OIL CORPORATION LTD (AOD),Digboi(Assam). The experience gained during this short period was fascinating to say the least. It was a tremendous feeling to observe the operation of different units and processes. It was overwhelming for me to notice how such a big refinery is being monitored and operated with proper coordination to achieve desired results. During my training I realised that in order to be a successful electrical engineer one needs to put his/her concepts into action. Thus, I hope that this training serves as a stepping stone for me in future and help me carve a niche for myself in this field.",
+        
+        "Certificate Of Completion - https://drive.google.com/drive/u/1/folders/10qNY_Vto7ZLoO5IHIuhgUZqgHLPGf54N"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Real-Time Face Mask Detector (Under Assist Prof. S. P. Kar , School Of Electronics , Kiit University)",
+      "summary": "Abstract: In this, we are detecting the faces with and without masks in real-time with the default camera or any other camera attached to the device. Here, we are using the Python programming language with open-CV for detecting faces with masks or without masks and machine learning to train the data and predict live data using a camera. Our target makes this complex problem a bit simpler. Due to the COVID-19 pandemic, this project is extremely beneficial now and also in future.",
+      "url": "https://drive.google.com/drive/folders/14XmCMooJgotE9ReHxgwjdQb8S_iHXMtW?usp=sharing"
+    },
+    {
+      "title": "Emotion Detection and Characterization using Facial Features (Under Assist Prof. S. P. Kar , School Of Electronics , Kiit University)",
+      "summary": "Abstract: In this, we are detecting the facial expression of a human being in real-time with a default camera or any other camera attached to the device. Here, we are using python a programming language with open CV for detecting faces with expression and machine learning to train and test the data and to make predictions on live data using the camera. Our target makes this complex problem a bit simpler.",
+      "url": "https://drive.google.com/drive/folders/1bJe6aG4pnLXOcyT_-ob2Lh2WXmvNh9If?usp=sharing"     
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Corporate Responsibility- Ernest & Young (GDS)",
+      "position": "Business Analyst 2",
+      "url": "https://drive.google.com/file/d/1loRXiERNbdP2JNtSoYk0U6IuhZtLyGiM/view?usp=sharing",
+      "start_date": "15/12/2024",
+      "end_date": "15/12/2024",
+      "summary": "Very grateful and filled with joy on receiving the certificate from corporate responsibility community for my contribution towards environment."
+    },
+    {
+      "organization": "Corporate Responsibility- Ernest & Young (GDS)",
+      "position": "Business Analyst 3",
+      "url": "https://drive.google.com/file/d/1hQKQcBAC46SHjXDZkB68wuTkJSbyv1gj/view?usp=sharing",
+      "start_date": "06/05/2024",
+      "end_date": "06/05/2024",
+      "summary": "As part of our Corporate Social Responsibility (CSR) initiative, we recently organized a Cool the School activity aimed at improving the learning environment for students. Our team collaborated with local schools to install natural handmade energy-efficient cooling systems for classroom that had no fans and air conditioners installed."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kalinga Institute of Industrial Technology",
+      "location": "Bhubaneswar, Odisha, India",
+      "url": "https://coe.kiit.ac.in/",
+      "degrees": [
+        "Bachelor of Technology (Honours)",
+        "Electronics and Electrical Engineering"
+      ],
+      "honors": ["Award For Meritorious Academic Performance", "https://drive.google.com/file/d/1wQQAWcWxrL1VmmekO2jd3idGuTwSa4HW/view?usp=sharing"],
+      "gpa_cumulative": "8.46",
+      "graduation_date": "27/07/2022"
+    },
+    {
+      "institution": "Delhi Public School",
+      "location": "Digboi, Assam, India",
+      "url": "https://dpsdigboi.in/",
+      "degrees": ["Senior School Certificate Examination"],
+      "gpa_cumulative": "68.6%",
+      "graduation_date": "27/05/2018"
+    },
+    {
+      "institution": "Delhi Public School",
+      "location": "Digboi, Assam, India",
+      "url": "https://dpsdigboi.in/",
+      "degrees": ["Secondary School Examination"],
+      "gpa_cumulative": "9.2",
+      "graduation_date": "27/05/2016"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Asset Management",
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Alteryx",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "SQL",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Python",
+      "proficiency": 70,
+      "proficiency_label": "Proficiency Level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travelling",
+      "summary": "I love traveling to far away place where there is less human interaction and more nature interaction.",
+      "images": [
+        {
+          "img_path": "https://fastly.picsum.photos/id/11/2500/1667.jpg?hmac=xxjFJtAPgshYkysU_aqx2sZir-kIOjNR9vx0te7GycQ"
+        },
+        {
+          "img_path": "https://fastly.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68"
+        }
+      ]
+    },
+    {
+      "name": "Photography",
+      "summary": "I love spending time in clicking photo that looks good in my eyes. Trying to capture the monent of life in my small memory device.",
+      "images": [
+        {
+          "img_path": "https://fastly.picsum.photos/id/250/4928/3264.jpg?hmac=4oIwzXlpK4KU3wySTnATICCa4H6xwbSGifrxv7GafWU"
+        },
+        {
+          "img_path": "https://fastly.picsum.photos/id/319/5000/2542.jpg?hmac=icYeEMjMxzLiSh99zhTa7s8rtnSYXjbCtS9nqpVhoEA"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B2"
+    },
+    {
+      "language": "German",
+      "fluency": "A1"
+    }
+  ],
+  "references": [
+    {
+      "name": "Amish Vyas",
+      "relation": "Manager - Ernest & Young (GDS)",
+      "reference": "I am pleased to recommend Ankit, who has been an exemplary employee at EY for the past 2 years and 5 months. During this time, Ankit has consistently demonstrated exceptional skills and dedication. Ankit has been involved in several high-impact projects. His analytical skills and ability to work under pressure have been commendable. Ankit has also shown remarkable leadership qualities, often taking the initiative to mentor junior team members. Ankit's commitment to excellence and continuous learning makes him an outstanding candidate for any advanced study or professional opportunity. I am confident that he will bring the same level of dedication and success to any future endeavours. Please feel free to contact me through Amish.vyas@gds.ey.com if you require any further information."
+    },
+    {
+      "name": "Subrat Behera",
+      "relation": "Assistant Professor - School of Electrical Engineering, KIIT University",
+      "reference": 
+      "It is with great pleasure that I write this letter of recommendation for Mr. Ankit Bhattacharjee bearing roll no. 1807366, a former student of mine at KIIT Deemed to be University, where he pursued his undergraduate studies in Electronics and Electrical Engineering. I have had the privilege of teaching Ankit in the course Wind and Biomass (Honours) which is a 3- credit honours course in his 8th semester. I was impressed by his academic acumen, dedication, and passion for learning during the time he spent in my class. Ankit stood out among his peers for his exceptional grasp of the subject matter. He achieved an excellent grade (9/10) in the course, demonstrating his ability to understand complex concepts and apply them effectively in practical scenarios. His performance in this highly technical and challenging course reflected not only his intellectual capabilities but also his disciplined approach and strong work ethic. Beyond academics Ankit displayed remarkable problem - solving skills and a collaborative spirit. During project discussions and assignments, he often brought innovative ideas to the table, showcasing his ability to think critically and work effectively in team settings. His enthusiasm for renewable energy and sustainable technologies was evident, and he consistently engaged in discussions with insightful questions and perspectives. Ankit’s commitment to excellence extends beyond the classroom. He is a highly motivated individual with a keen interest in research and development, particularly in fields related to Electrical and Information Technology. His proactive nature and curiosity make him well suited for the rigorous demands of a masters program. I strongly believe that Ankit has the potential to excel in his higher studies and make significant contributions to the field of engineering. His analytical mindset, coupled with his ability to adapt and innovate, will serve him well in an academic and professional setting. I am confident that he will be an asset to your esteemed institution. For any further information or have specific questions, please do not hesitate to contact me - sbeherafel@kiit.ac.in / (+91) 9556271032."
+    }
+  ]
+}
