@@ -1,13 +1,14 @@
 {
   "name": "Ankit Bhattacharjee",
   "label": "Business Analyst -3 | EX - Ernest & Young (GDS) | KIIT Deemed University",
-  "image_path": "portfolio_media/Ankit bhattacharjee_photo.jpg",
+  "image_path": "portfolio_media/WhatsApp Image 2025-03-23 at 00.27.49_19c6bec4.jpg",
   "contact": {
     "email": "bhattacharjeeankit366@gmail.com",
     "phone": "(+91) 9861208165",
     "location": "Digboi - 786171, Assam, India"
   },
   "summary": "As a business analyst with a strong foundation in software asset management at Ernst & Young (GDS), I use data analysis to drive business solutions. Proficient in MS Excel, Alteryx, Microsoft Power BI, SQL, and Python, I specialize in transforming complex datasets into strategic insights that support organizational growth. My academic background in Electronics and Electrical Engineering from KIIT University has sparked my passion for technology, particularly in the areas of automation and data analysis.",
+  "summary2": "Documents Link - https://drive.google.com/drive/folders/1grGvFP0B55ulLlaIR5e02oV2A_uGT6TV?usp=sharing",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -84,7 +85,7 @@
         "Bachelor of Technology (Honours)",
         "Electronics and Electrical Engineering"
       ],
-      "honors": ["Award For Meritorious Academic Performance", "https://drive.google.com/file/d/1wQQAWcWxrL1VmmekO2jd3idGuTwSa4HW/view?usp=sharing"],
+      "honors": ["Award For Meritorious Academic Performance - https://drive.google.com/file/d/1wQQAWcWxrL1VmmekO2jd3idGuTwSa4HW/view?usp=sharing"],
       "gpa_cumulative": "8.46",
       "graduation_date": "27/07/2022"
     },
@@ -93,7 +94,8 @@
       "location": "Digboi, Assam, India",
       "url": "https://dpsdigboi.in/",
       "degrees": ["Senior School Certificate Examination"],
-      "gpa_cumulative": "68.6%",
+      "gpa_cumulative":"68.6%" ,
+      "Percentage":"68.6%",
       "graduation_date": "27/05/2018"
     },
     {
@@ -101,6 +103,7 @@
       "location": "Digboi, Assam, India",
       "url": "https://dpsdigboi.in/",
       "degrees": ["Secondary School Examination"],
+      "honors": ["Award For Meritorious Academic Performance - https://drive.google.com/file/d/11cz2Ue-OSrkoeHvd6VUPBMwHZkXxjj2Z/view?usp=sharing"],
       "gpa_cumulative": "9.2",
       "graduation_date": "27/05/2016"
     }
@@ -138,10 +141,10 @@
       "summary": "I love traveling to far away place where there is less human interaction and more nature interaction.",
       "images": [
         {
-          "img_path": "https://fastly.picsum.photos/id/11/2500/1667.jpg?hmac=xxjFJtAPgshYkysU_aqx2sZir-kIOjNR9vx0te7GycQ"
+          "img_path": "portfolio_media/WhatsApp Image 2025-03-22 at 23.43.18_6c2d22cd.jpg"
         },
         {
-          "img_path": "https://fastly.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68"
+          "img_path": "portfolio_media/WhatsApp Image 2025-03-22 at 23.44.03_cc2ac5f2.jpg"
         }
       ]
     },
@@ -150,10 +153,10 @@
       "summary": "I love spending time in clicking photo that looks good in my eyes. Trying to capture the monent of life in my small memory device.",
       "images": [
         {
-          "img_path": "https://fastly.picsum.photos/id/250/4928/3264.jpg?hmac=4oIwzXlpK4KU3wySTnATICCa4H6xwbSGifrxv7GafWU"
+          "img_path": "portfolio_media/WhatsApp Image 2025-03-22 at 23.45.00_a0c450db.jpg"
         },
         {
-          "img_path": "https://fastly.picsum.photos/id/319/5000/2542.jpg?hmac=icYeEMjMxzLiSh99zhTa7s8rtnSYXjbCtS9nqpVhoEA"
+          "img_path": "portfolio_media/WhatsApp Image 2025-03-22 at 23.45.43_89b7b506.jpg"
         }
       ]
     }
@@ -179,6 +182,12 @@
       "relation": "Assistant Professor - School of Electrical Engineering, KIIT University",
       "reference": 
       "It is with great pleasure that I write this letter of recommendation for Mr. Ankit Bhattacharjee bearing roll no. 1807366, a former student of mine at KIIT Deemed to be University, where he pursued his undergraduate studies in Electronics and Electrical Engineering. I have had the privilege of teaching Ankit in the course Wind and Biomass (Honours) which is a 3- credit honours course in his 8th semester. I was impressed by his academic acumen, dedication, and passion for learning during the time he spent in my class. Ankit stood out among his peers for his exceptional grasp of the subject matter. He achieved an excellent grade (9/10) in the course, demonstrating his ability to understand complex concepts and apply them effectively in practical scenarios. His performance in this highly technical and challenging course reflected not only his intellectual capabilities but also his disciplined approach and strong work ethic. Beyond academics Ankit displayed remarkable problem - solving skills and a collaborative spirit. During project discussions and assignments, he often brought innovative ideas to the table, showcasing his ability to think critically and work effectively in team settings. His enthusiasm for renewable energy and sustainable technologies was evident, and he consistently engaged in discussions with insightful questions and perspectives. Ankit’s commitment to excellence extends beyond the classroom. He is a highly motivated individual with a keen interest in research and development, particularly in fields related to Electrical and Information Technology. His proactive nature and curiosity make him well suited for the rigorous demands of a masters program. I strongly believe that Ankit has the potential to excel in his higher studies and make significant contributions to the field of engineering. His analytical mindset, coupled with his ability to adapt and innovate, will serve him well in an academic and professional setting. I am confident that he will be an asset to your esteemed institution. For any further information or have specific questions, please do not hesitate to contact me - sbeherafel@kiit.ac.in / (+91) 9556271032."
+    },
+    {
+      "name": "Dr. KVVSR Chowdary",
+      "relation": "Assistant Professor - School of Electrical Engineering, KIIT University",
+      "reference": 
+      "It is with great pleasure that I write this letter of recommendation for Mr. Ankit Bhattacharjee bearing roll no. 1807366, a former student of mine at KIIT Deemed to be University, where he pursued his undergraduate studies in Electronics and Electrical Engineering. I have had the privilege of teaching Ankit in the course Electric Drive and Control which is a 3-credit course in his 6th semester. I was impressed by his remarkable growth and commitment to excellence throughout the course. Ankit stood out among his peers for his exceptional grasp of the subject matter. He achieved an Excellent grade (9/10) in the course, demonstrating his ability to understand complex concepts and apply them effectively in practical scenarios. His performance in this highly technical and challenging course reflected not only his intellectual capabilities but also his disciplined approach and strong work ethic. Beyond academics, Ankit displayed remarkable problem-solving skills and a collaborative spirit. During project discussions and assignments, he often brought innovative ideas to the table, showcasing his ability to think critically and work effectively in team settings. His enthusiasm for renewable energy and sustainable technologies was evident, and he consistently engaged in discussions with insightful questions and perspectives. Ankit's commitment to excellence extends beyond the classroom. He is a highly motivated individual with a keen interest in research and development, particularly in fields related to Electrical and Information Technology. His proactive nature and curiosity make him well-suited for the rigorous demands of a master's program. I strongly believe that Ankit has the potential to excel in his higher studies and make significant contributions to the field of engineering. His analytical mindset, coupled with his ability to adapt and innovate, will serve him well in an academic and professional setting. I am confident that he will be an asset to your esteemed institution. Please feel free to contact me for any further information or queries at (+91)-8018483056 / rchowdaryfel@kiit.ac.in"
     }
   ]
 }

@@ -38,7 +38,7 @@
     <link rel="stylesheet" href="css/main.css">
 
     <!-- Set a theme color that matches your website's primary color -->
-    <meta name="theme-color" content="#fafafa">
+    <meta name="theme-color" content="#3498db">
 
     <!-- Favicon for all browsers -->
     <link rel="icon" href="/favicon.ico" sizes="any">
@@ -60,8 +60,8 @@
         <div class="header-top flex-responsive">
           {% if image_path %}
             <img class="header-image"
-                 width="256"
-                 height="256"
+                 width="280"
+                 height="280"
                  src="{{ image_path }}"
                  alt="{{ name }} Profile Image" />
           {% endif %}
@@ -101,6 +101,8 @@
               </ul>
             {% endif %}
             {% if summary %}<p class="header-summary">{{ summary }}</p>{% endif %}
+            {% if summary2 %}
+    <p class="header-summary2">{{ summary2 }}</p>{% endif %}
           </div>
         </div>
       </div>
@@ -242,10 +244,11 @@
                       {% for hon in edu.honors %}<li>{{ hon }}</li>{% endfor %}
                     </ul>
                   {% endif %}
-                  {% if edu.gpa_major or edu.gpa_cumulative or edu.graduation_date %}
+                  {% if edu.gpa_major or edu.gpa_cumulative or edu.percentage or edu.graduation_date %}
                     <p>
                       {% if edu.gpa_major %}<span class="block">GPA in Major: {{ edu.gpa_major }}</span>{% endif %}
                       {% if edu.gpa_cumulative %}<span class="block">Cumulative GPA: {{ edu.gpa_cumulative }}</span>{% endif %}
+                      {% if edu.percentage %}<span class="block">Percentage: {{ edu.percentage }}</span>{% endif %}
                       {% if edu.graduation_date %}<span class="block">Graduation Date: {{ edu.graduation_date }}</span>{% endif %}
                     </p>
                   {% endif %}
@@ -301,8 +304,8 @@
                     <div class="gallery side-gallery">
                       {% for img in interest.images %}
                         <figure>
-                          <img width="600"
-                               height="338"
+                          <img width="800"
+                               height="400"
                                src="{{ img.img_path }}"
                                alt="{{ img.caption }}">
                           <figcaption>{{ img.caption }}</figcaption>
